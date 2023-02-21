@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import { Default } from "./layouts/default";
+import { Default } from "./layouts/Default";
 import { Status } from "./pages/Status";
 import { Timeline } from "./pages/Timeline";
 
